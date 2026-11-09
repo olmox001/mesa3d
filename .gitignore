@@ -3,9 +3,19 @@
 *.kdev4
 *.pyc
 *.pyo
+__pycache__/
 *.out
 /build
+/builddir
+/_build
 .venv/
 *.mda.tar
-*.DS_Store
+
+# OS / Editor / Tooling
 .DS_Store
+._*
+.idea/
+*.swp
+*.swo
+*~
+compile_commands.json
