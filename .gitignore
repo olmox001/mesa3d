@@ -7,3 +7,5 @@
 /build
 .venv/
 *.mda.tar
+*.DS_Store
+.DS_Store
